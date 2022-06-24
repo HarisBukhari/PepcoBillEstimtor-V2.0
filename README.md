@@ -1,0 +1,2 @@
+# PepcoBillEstimtor-V2.0
+In our Final Year Project, We have developed an android application that can help users to differentiate the tax applied on electricity bills by taking a picture of the bill or meter provided by the company. This app can help you check the consumption of the appliances with the help of tariff breakdown of electricity bills. You can check the monthly consumption of your past months by the graph provided by the application.
